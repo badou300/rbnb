@@ -1,0 +1,132 @@
+body {
+    max-width: 1440px;
+    max-height: 1024px;
+    margin: auto; 
+    overflow: auto; 
+}
+
+b {
+    width: 239px;
+    height: 100px;
+    flex-shrink: 0;
+    color: #54A3FF;
+    font-family: Pacifico;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+b4 {
+    display: flex;
+    width: 136px;
+    height: 37.354px;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-shrink: 0;
+    color: #54A3FF;
+    text-align: right;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 142.6%; /* 34.224px */
+}
+
+b5 {
+    display: flex;
+    width: 116px;
+    height: 37.354px;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-shrink: 0;
+    color: #54A3FF;
+    text-align: right;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 142.6%; /* 34.224px */
+    text-decoration-line: underline;
+}
+
+h3 {
+width: 1000px;
+height: 2px;
+background: #9C9C9C;
+text-align: center;
+margin: 0 auto; 
+width: 80%; 
+}
+h1{
+    text-align: center;
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 142.6%; /* 34.224px */
+    text-transform: uppercase;
+}
+
+p1 {
+    margin: 10px ; 
+    text-align: center;
+    display: flex;
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160.6%; /* 25.696px */
+    text-transform: uppercase;
+}
+
+h2 {
+    text-align: center;
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 142.6%; /* 34.224px */
+    text-transform: uppercase;
+    
+}
+
+p2 {
+    margin: 10px ; 
+    text-align: center;
+    display: flex;
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160.6%; /* 25.696px */
+    text-transform: uppercase;
+}
+
+b1 {
+    width: 239px;
+    height: 100px;
+    flex-shrink: 0;
+}
+
+b2 {
+    width: 1440px;
+    height: 250px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+b3 {
+    width: 1440px;
+    height: 250px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 0px -255.307px / 100% 384% no-repeat;
+}
